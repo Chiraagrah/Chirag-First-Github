@@ -1,0 +1,20 @@
+3. Creating Statements 
+4. Query
+5. EXECUTE THE QUERIES
+6. Getting Result
+7. Closing the connection
+
+Installation of Mysql:-
+Community version Install
+
+Firing Queries:-
+-Show databases :- to check existing databases:- 
+Predefined + UserDefined 
+-create database database-name :-
+	Avoid using hyphen with database name
+-use databasename:-
+	Used to enter inside your database.
+-create table tablename(column name type,...:-
+	used to create table
+-insert into tablename(column1,column2,...)values("","",....)
+update tablename set 
